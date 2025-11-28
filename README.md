@@ -23,6 +23,7 @@ Jogos & Experiências Interativas
 ✔ Padrões modernos de engenharia e organização
 
 📁 Principais Tipos de Projetos
+
 🌐 Orbit Web
 
 Plataformas, landing pages e experiências digitais.
@@ -39,8 +40,6 @@ Jogos independentes, gameplay experimental e pixel art.
 
 Prototipação rápida, POCs e experimentos tecnológicos.
 
-📊 Tecnologias & Linguagens Mais Usadas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Most Used Languages and Tools" /> </div>
 🤝 Contribuições
 
 Projetos selecionados serão abertos para colaboração.
