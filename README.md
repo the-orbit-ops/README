@@ -18,7 +18,7 @@ A Orbit atua em três frentes principais:
 
 🧩 Nossos Pilares
 
-✔ Código limpo e bem estruturado
+<r>✔ Código limpo e bem estruturado</r>
 ✔ Experiência intuitiva e funcional
 ✔ Projetos que podem crescer sem travar
 ✔ Padrões modernos de engenharia e organização
