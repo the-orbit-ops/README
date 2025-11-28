@@ -1,56 +1,51 @@
 🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan">
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan"> </div> <br/>
 
 Bem-vindo(a) à Orbit, um ecossistema de projetos digitais criados com foco em eficiência, design inteligente e tecnologia moderna.
 
-Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas e proporcionar experiências marcantes para usuários e equipes.
+Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas e proporcionar experiências marcantes para usuários, equipes e comunidades.
 
 🚀 O que fazemos
 
 A Orbit atua em três frentes principais:
 
-1. Desenvolvimento Web
-2. DevOps & Automação
-3. Jogos & Experiências Interativas plataformas
+Desenvolvimento Web
+
+DevOps & Automação
+
+Jogos & Experiências Interativas
 
 🧩 Nossos Pilares
 
-<r>✔ Código limpo e bem estruturado</r>
+✔ Código limpo e bem estruturado
 ✔ Experiência intuitiva e funcional
-✔ Projetos que podem crescer sem travar
+✔ Projetos escaláveis, sem gargalos
 ✔ Padrões modernos de engenharia e organização
 
-
 📁 Principais Tipos de Projetos
+🌐 Orbit Web
 
-🌐 Orbit Web — plataformas e landing pages
+Plataformas, landing pages e experiências digitais.
 
-⚙️ Orbit Systems — sistemas internos e ferramentas
+⚙️ Orbit Systems
 
-🎮 Orbit Studios — jogos independentes e game dev
+Ferramentas internas, automações e sistemas robustos.
 
-🧪 Orbit Labs — experimentos, protótipos e POCs
+🎮 Orbit Studios
 
+Jogos independentes, gameplay experimental e pixel art.
 
+🧪 Orbit Labs
+
+Prototipação rápida, POCs e experimentos tecnológicos.
+
+📊 Tecnologias & Linguagens Mais Usadas
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Most Used Languages and Tools" /> </div>
 🤝 Contribuições
 
 Projetos selecionados serão abertos para colaboração.
 Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponível.
 
-   </td>
-   <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Most Used Languages and Tools"
-      />
-   </td>
-  </tr>
-</table>
-
 📜 Licença
 
 Orbit Labs / Orbit Ops.
-
