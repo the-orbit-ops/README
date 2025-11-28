@@ -1,4 +1,4 @@
-## 🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
+🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan">
@@ -16,7 +16,7 @@ A Orbit atua em três frentes principais:
 2. DevOps & Automação
 3. Jogos & Experiências Interativas plataformas
 
-##🧩 Nossos Pilares
+🧩 Nossos Pilares
 
 ✔ Código limpo e bem estruturado
 ✔ Experiência intuitiva e funcional
@@ -24,7 +24,7 @@ A Orbit atua em três frentes principais:
 ✔ Padrões modernos de engenharia e organização
 
 
-##📁 Principais Tipos de Projetos
+📁 Principais Tipos de Projetos
 
 🌐 Orbit Web — plataformas e landing pages
 
