@@ -1,4 +1,4 @@
-## 🌌 Orbit — Engenharia, Criatividade e Código de Alto Impacto
+## 🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan">
