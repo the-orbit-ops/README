@@ -15,9 +15,10 @@ Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas
 
 ## 🚀 O que fazemos
 
-- **Desenvolvimento Web**  
-- **DevOps & Automação**  
-- **Jogos & Experiências Interativas**
+- **A Orbit atua em três frentes principais:
+- 1. Desenvolvimento Web
+- 2. DevOps & Automação
+- 3. Jogos & Experiências Interativas plataformas**  
 
 ---
 
@@ -32,33 +33,16 @@ Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas
 
 ## 📁 Tipos de Projetos
 
-| Tag | Tipo | Objetivo / Detalhes |
 |-----|------|---------------------|
-| 🌐 **Orbit Web**    | Landing pages, sites, plataformas web | Front-end / back-end / full-stack |
-| ⚙️ **Orbit Systems**| Ferramentas internas, automações, APIs, back-end | Sistemas estruturados, APIs, microsserviços |
-| 🎮 **Orbit Studios**| Jogos independentes e interativos | Pixel art, mecânicas 2D, jogos experimentais |
-| 🧪 **Orbit Labs**   | Protótipos, POCs, experimentos tech | Testes, automações, scripts, ideias em dev |
+| 🌐 **Orbit Web**    |plataformas e landing pages
+| ⚙️ **Orbit Systems**|sistemas internos e ferramentas 
+| 🎮 **Orbit Studios**|jogos independentes e game dev
+| 🧪 **Orbit Labs**   |experimentos, protótipos e POCs
 
 ---
-
-## 🛠️ Tecnologias & Stack
-
-- Languages: JavaScript, Python, C#, Java, HTML5, CSS3  
-- Frameworks / Tools: Node.js, .NET, Docker, CI/CD, GitHub Actions, (Unity / Godot) — dependendo do projeto  
-- Outras: Banco de dados, automações, design responsivo, pixel art, scripts internos  
-
+## 🤝 Contribuições Projetos selecionados serão abertos para colaboração. Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponível.
+---
+## 📜 Licença Orbit Labs / Orbit Ops.
 ---
 
-## 🚀 Como começar / Como usar
 
-> *Este guia se aplica aos projetos que disponibilizamos com código aberto — para outros, veja a documentação específica.*
-
-```bash
-# Exemplo genérico:
-git clone https://github.com/the-orbit-ops/SEU-PROJETO.git
-cd SEU-PROJETO
-# Para backend:
-npm install
-npm run dev
-# Para front:
-cd front && npm install && npm run dev
