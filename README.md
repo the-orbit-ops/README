@@ -40,15 +40,15 @@ A Orbit atua em três frentes principais:
 Projetos selecionados serão abertos para colaboração.
 Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponível.
 
-===================================================
-
-<!-- 📈 ATIVIDADE -->
-<h2 align="center">📈 Atividade no GitHub</h2>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-orbit-ops&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
-  </a>
-</p>
+   </td>
+   <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Most Used Languages and Tools"
+      />
+   </td>
+  </tr>
+</table>
 
 📜 Licença
 
