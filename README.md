@@ -42,6 +42,14 @@ Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponíve
 
 ==================================================================================================================================
 
+<!-- 📈 ATIVIDADE -->
+<h2 align="center">📈 Atividade no GitHub</h2>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-orbit-ops&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
+  </a>
+</p>
+
 📜 Licença
 
 Orbit Labs / Orbit Ops.
