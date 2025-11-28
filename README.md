@@ -1,50 +1,64 @@
-🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
-<div align="center"> <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan"> </div> <br/>
+# 🌌 Orbit House — Engenharia, Criatividade e Código de Alto Impacto
 
-Bem-vindo(a) à Orbit, um ecossistema de projetos digitais criados com foco em eficiência, design inteligente e tecnologia moderna.
+<div align="center">
+  <img src="https://img.shields.io/badge/-Tecnologia%20que%20gravita%20em%20torno%20da%20inovação!-6D4AFF?style=for-the-badge&logo=github" alt="Orbit slogan">
+</div>
 
-Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas e proporcionar experiências marcantes para usuários, equipes e comunidades.
+---
 
-🚀 O que fazemos
+## ✨ Sobre a Orbit
 
-A Orbit atua em três frentes principais:
+Bem-vindo(a) à **Orbit**, um ecossistema de projetos digitais criados com foco em eficiência, design inteligente e tecnologia moderna.  
+Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas e proporcionar experiências marcantes para usuários, equipes e comunidade.
 
-Desenvolvimento Web
+---
 
-DevOps & Automação
+## 🚀 O que fazemos
 
-Jogos & Experiências Interativas
+- **Desenvolvimento Web**  
+- **DevOps & Automação**  
+- **Jogos & Experiências Interativas**
 
-🧩 Nossos Pilares
+---
 
-✔ Código limpo e bem estruturado
-✔ Experiência intuitiva e funcional
-✔ Projetos escaláveis, sem gargalos
-✔ Padrões modernos de engenharia e organização
+## 🧩 Nossos Pilares
 
-📁 Principais Tipos de Projetos
+- Código limpo e bem estruturado  
+- Experiência intuitiva e funcional  
+- Projetos que podem crescer sem travar  
+- Padrões modernos de engenharia e organização
 
-🌐 Orbit Web
+---
 
-Plataformas, landing pages e experiências digitais.
+## 📁 Tipos de Projetos
 
-⚙️ Orbit Systems
+| Tag | Tipo | Objetivo / Detalhes |
+|-----|------|---------------------|
+| 🌐 **Orbit Web**    | Landing pages, sites, plataformas web | Front-end / back-end / full-stack |
+| ⚙️ **Orbit Systems**| Ferramentas internas, automações, APIs, back-end | Sistemas estruturados, APIs, microsserviços |
+| 🎮 **Orbit Studios**| Jogos independentes e interativos | Pixel art, mecânicas 2D, jogos experimentais |
+| 🧪 **Orbit Labs**   | Protótipos, POCs, experimentos tech | Testes, automações, scripts, ideias em dev |
 
-Ferramentas internas, automações e sistemas robustos.
+---
 
-🎮 Orbit Studios
+## 🛠️ Tecnologias & Stack
 
-Jogos independentes, gameplay experimental e pixel art.
+- Languages: JavaScript, Python, C#, Java, HTML5, CSS3  
+- Frameworks / Tools: Node.js, .NET, Docker, CI/CD, GitHub Actions, (Unity / Godot) — dependendo do projeto  
+- Outras: Banco de dados, automações, design responsivo, pixel art, scripts internos  
 
-🧪 Orbit Labs
+---
 
-Prototipação rápida, POCs e experimentos tecnológicos.
+## 🚀 Como começar / Como usar
 
-🤝 Contribuições
+> *Este guia se aplica aos projetos que disponibilizamos com código aberto — para outros, veja a documentação específica.*
 
-Projetos selecionados serão abertos para colaboração.
-Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponível.
-
-📜 Licença
-
-Orbit Labs / Orbit Ops.
+```bash
+# Exemplo genérico:
+git clone https://github.com/the-orbit-ops/SEU-PROJETO.git
+cd SEU-PROJETO
+# Para backend:
+npm install
+npm run dev
+# Para front:
+cd front && npm install && npm run dev
