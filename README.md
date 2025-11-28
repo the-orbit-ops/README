@@ -1,11 +1,10 @@
+## 🌌 Orbit — Engenharia, Criatividade e Código de Alto Impacto
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6D4AFF&center=true&vCenter=true&random=false&width=520&lines=Tecnologia+que+gravita+em+torno+da+inovação!+%F0%9F%91%8B" alt="Typing SVG">
   </a>
 </div>
-
-
-##🌌 Orbit — Engenharia, Criatividade e Código de Alto Impacto
 
 Bem-vindo(a) à Orbit, um ecossistema de projetos digitais criados com foco em eficiência, design inteligente e tecnologia moderna.
 
