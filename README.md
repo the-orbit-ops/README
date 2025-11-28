@@ -34,6 +34,7 @@ Aqui, cada projeto nasce com propósito: entregar valor real, resolver problemas
 ## 📁 Tipos de Projetos
 
 |-----|------|---------------------|
+
 | 🌐 **Orbit Web**    |plataformas e landing pages
 | ⚙️ **Orbit Systems**|sistemas internos e ferramentas 
 | 🎮 **Orbit Studios**|jogos independentes e game dev
