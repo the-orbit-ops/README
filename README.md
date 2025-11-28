@@ -40,7 +40,7 @@ A Orbit atua em três frentes principais:
 Projetos selecionados serão abertos para colaboração.
 Sinta-se livre para acompanhar, sugerir melhorias e participar quando disponível.
 
-==================================================================================================================================
+===================================================
 
 <!-- 📈 ATIVIDADE -->
 <h2 align="center">📈 Atividade no GitHub</h2>
